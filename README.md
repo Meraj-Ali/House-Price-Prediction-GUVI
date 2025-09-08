@@ -41,13 +41,13 @@ A Streamlit web app for exploring house price datasets, performing interactive d
 
 You can try the app directly here:
 
-👉 Live Demo on Streamlit Cloud
+👉 Live Demo on Streamlit Cloud =>
 https://house-price-prediction-guvi-meraj-ali.streamlit.app/
 
 ### 🚀 Installation
 1️⃣ **Clone the repository**
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone => https://github.com/Meraj-Ali/house-price-prediction.git
 
 cd house-price-prediction
 
