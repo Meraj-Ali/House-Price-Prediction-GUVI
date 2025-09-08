@@ -47,7 +47,7 @@ https://house-price-prediction-guvi-meraj-ali.streamlit.app/
 ### 🚀 Installation
 1️⃣ **Clone the repository**
 
-git clone => https://github.com/Meraj-Ali/house-price-prediction.git
+git clone => https://github.com/Meraj-Ali/House-Price-Prediction-GUVI.git
 
 cd house-price-prediction
 
