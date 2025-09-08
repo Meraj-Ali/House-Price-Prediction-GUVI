@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 st.set_page_config(
     page_title="House Price Prediction",
     page_icon="🏠",
-    #layout="wide",
+    layout="wide",
     initial_sidebar_state="expanded"
 )
 
@@ -366,3 +366,4 @@ def prediction_section(df):
         
 if __name__ == "__main__":
     main()
+
